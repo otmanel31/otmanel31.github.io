@@ -1,0 +1,16 @@
+{
+  "name": "cv_hackmyresume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hackmyresume": "^1.8.0",
+    "jsonresume-theme-dark-classy-responsive": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

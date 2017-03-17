@@ -1,0 +1,143 @@
+{
+  "name": "Otman EL KENZ ",
+  "info": {},
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "location": {
+    "city": "San Francisco",
+    "region": "California",
+    "country": "US",
+    "code": "CA 94115",
+    "address": "2712 Broadway St"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "CEO/President",
+        "employer": "Pied Piper",
+        "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+        "start": "2013-12-01",
+        "end": "2014-12-01",
+        "url": "https://piedpiper.com",
+        "keywords": [],
+        "highlights": [
+          "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+          "Successfully won Techcrunch Disrupt",
+          "Optimized an algorithm that holds the current world record for Weisman Scores"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "University of Oklahoma",
+        "start": "2011-06-01",
+        "end": "2014-01-01",
+        "grade": "4.0",
+        "curriculum": [
+          "DB1101 - Basic SQL",
+          "CS2011 - Java Introduction"
+        ],
+        "summary": "",
+        "area": "Information Technology",
+        "studyType": "Bachelor"
+      }
+    ]
+  },
+  "service": {
+    "history": [
+      {
+        "type": "volunteer",
+        "position": "Teacher",
+        "organization": "CoderDojo",
+        "start": "2012-01-01",
+        "end": "2013-01-01",
+        "url": "https://coderdojo.com/",
+        "summary": "Global movement of free coding clubs for young people.",
+        "highlights": [
+          "Awarded 'Teacher of the Month'"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Web Development",
+        "level": "Master",
+        "skills": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ]
+      },
+      {
+        "name": "Compression",
+        "level": "Master",
+        "skills": [
+          "Mpeg",
+          "MP4",
+          "GIF"
+        ]
+      }
+    ]
+  },
+  "writing": [
+    {
+      "title": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "url": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "date": "2014-10-01",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "recognition": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "from": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "social": [
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "url": "",
+      "user": "neutralthoughts"
+    },
+    {
+      "label": "SoundCloud",
+      "network": "SoundCloud",
+      "url": "https://soundcloud.com/dandymusicnl",
+      "user": "dandymusicnl"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Erlich Bachman",
+      "flavor": "professional",
+      "quote": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company.",
+      "private": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
